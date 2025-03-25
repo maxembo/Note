@@ -1,0 +1,21 @@
+.note-section {
+  padding: 32px;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 48px;
+}
+
+.note-div {
+  display: flex;
+  flex-direction: column;
+  width: 33.%;
+  gap: 40px;
+}
+
+.note-form {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  gap: 12px;
+}
